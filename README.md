@@ -1,4 +1,4 @@
-### Hi, I'm Anvar Norov <img src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRCYrAn6pjRzUHRm2cFD4QPy6abTkY7j2dff6WHzmzSEGTd3jYucTkj_RR6gCHK_9WDE&usqp=CAU](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)" width="27px">
+### Hi, I'm Anvar Norov <img src="<iframe src="https://giphy.com/embed/TlK63EGn8YyRbiI6mBy" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oxygenmedia-side-eye-no-you-didnt-deitrick-haddon-TlK63EGn8YyRbiI6mBy">via GIPHY</a></p>" width="27px">
 
 I work remotely and like to travel a lot.
 
