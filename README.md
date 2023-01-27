@@ -1,4 +1,4 @@
-### Hi, I'm Anvar Norov <img src="<iframe src="https://giphy.com/embed/TlK63EGn8YyRbiI6mBy" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oxygenmedia-side-eye-no-you-didnt-deitrick-haddon-TlK63EGn8YyRbiI6mBy">via GIPHY</a></p>" width="27px">
+### Hi, I'm Anvar Norov <img src="https://media.giphy.com/media/ppFKTGfSETHDq/giphy.gif" width="27px">
 
 I work remotely and like to travel a lot.
 
