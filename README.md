@@ -1,4 +1,4 @@
-### Hi, I'm Anvar Norov <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRCYrAn6pjRzUHRm2cFD4QPy6abTkY7j2dff6WHzmzSEGTd3jYucTkj_RR6gCHK_9WDE&usqp=CAU](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)" width="27px">
+### Hi, I'm Anvar Norov <img src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRCYrAn6pjRzUHRm2cFD4QPy6abTkY7j2dff6WHzmzSEGTd3jYucTkj_RR6gCHK_9WDE&usqp=CAU](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)" width="27px">
 
 I work remotely and like to travel a lot.
 
