@@ -1,7 +1,7 @@
 ### Hi, I'm Anvar Norov <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="65px">
 I work remotely and like to travel a lot.<br>
 I don't have any youtube tutorials on what I've done yet but if you want to check out my fun video channel here! <a href="https://www.youtube.com/channel/UCPQ3FAImgMI2qjL2n_Z233Q"> <img src="https://vectorseek.com/wp-content/uploads/2022/02/Youtube-Icon-Logo-Vector.jpg" width="55px"></a> <br>
-If you have any questions or suggestions, I will be on this telegram <a href="href="t.me/N0_C0mment"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh84KCFoIBoxRuILJaVxZiQAvuqziH6A38Ow&usqp=CAU" width="35px"></a><br>
+If you have any questions or suggestions, I will be on this telegram <a href="t.me/N0_C0mment"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh84KCFoIBoxRuILJaVxZiQAvuqziH6A38Ow&usqp=CAU" width="25px"></a><br>
 #### Languages and tools I work with:
 <table>
 	<tr>
