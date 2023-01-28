@@ -16,7 +16,7 @@ I don't have any youtube tutorials on what I've done yet but if you want to chec
     		<th>Office Programms Pack</th>
 	</tr>
   	<tr>
-		<th><img src="[[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZcoSxPx8HIDEWTXTyUIX0TBVEUABvUwu2dG0dtDtVb_7C6_0oG_lt_OuhiZIE5Qnpvw&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMvKXrrQxeDQJcBMqMoH9EYpsiTAoe7BFig&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuFjaiMv_0T7i6kgYfG3wGMbu7i27UJFOEg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8xrbazgalabBw-bWAGPs1vO4S8lQEeuLc79ZTtu8Tixjgc--LfV9tudMijJi7pmVug&usqp=CAU)" width="90px"></th>
+		<th><img src="[[[[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZcoSxPx8HIDEWTXTyUIX0TBVEUABvUwu2dG0dtDtVb_7C6_0oG_lt_OuhiZIE5Qnpvw&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMvKXrrQxeDQJcBMqMoH9EYpsiTAoe7BFig&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuFjaiMv_0T7i6kgYfG3wGMbu7i27UJFOEg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8xrbazgalabBw-bWAGPs1vO4S8lQEeuLc79ZTtu8Tixjgc--LfV9tudMijJi7pmVug&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdygaJcj4dI_AQkmeeWvBPLxB74mmZEGtqjHOLWyIrtj_uSvpjD6m1R78U3kxBM84Oqc&usqp=CAU)](https://i.pinimg.com/originals/8f/23/98/8f2398dcd19c6a1776f6b55c83073c67.png)" width="90px"></th>
 		<th><img src="https://i.ytimg.com/vi/8cmQHom36_w/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBj62AbL-o6wqn7SSOtYSgL0RDGsw" widht="60px"></th>
 		<th>SQLite3</th>
     		<th>Postgresql</th>
@@ -25,5 +25,3 @@ I don't have any youtube tutorials on what I've done yet but if you want to chec
    		<th>Office Programms Pack</th>
 	</tr>
 </table>
-<code><h6><b>HTML</h6><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-icons-download-14.png" width="27px"><code>
-<code><h2><b>CSS</h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYHeT1bewB9tAr9ZqOnBmDGwzrtVsKrpgIRDNjfOcFiYsemGheab07Bgo6bIGBFVLSDA&usqp=CAU" width="27px"><code>
