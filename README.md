@@ -1,4 +1,4 @@
-### Hi, I'm Anvar Norov <img src="https://media.giphy.com/media/ppFKTGfSETHDq/giphy.gif" width="80px">
+### Hi, I'm Anvar Norov <img src="[https://media.giphy.com/media/ppFKTGfSETHDq/giphy.gif](https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif)" width="80px">
 
 I work remotely and like to travel a lot.
 
