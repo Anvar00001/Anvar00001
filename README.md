@@ -5,7 +5,7 @@ I work remotely and like to travel a lot.
 I don't have any youtube tutorials on what I've done yet but if you want to check out my fun video channel here! </br>
 <a href="https://www.youtube.com/channel/UCPQ3FAImgMI2qjL2n_Z233Q"> <img src="https://vectorseek.com/wp-content/uploads/2022/02/Youtube-Icon-Logo-Vector.jpg" width="40px"></a>
 #### Languages and tools I work with:
-<table>
+<table border=0>
 	<tr>
 		<th>Python</th>
 		<th>Python-OOP</th>
