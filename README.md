@@ -1,4 +1,4 @@
-### Hi, I'm Anvar Norov <img src="[https://media.giphy.com/media/ppFKTGfSETHDq/giphy.gif](https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif)" width="80px">
+### Hi, I'm Anvar Norov <img src="[[https://media.giphy.com/media/ppFKTGfSETHDq/giphy.gif](https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif)](https://media.giphy.com/media/XaA0fpudSHPf4MPlEK/giphy.gif)" width="80px">
 
 I work remotely and like to travel a lot.
 
@@ -16,7 +16,7 @@ I don't have any youtube tutorials on what I've done yet but if you want to chec
     		<th>Office Programms Pack</th>
 	</tr>
   	<tr>
-		<th><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZcoSxPx8HIDEWTXTyUIX0TBVEUABvUwu2dG0dtDtVb_7C6_0oG_lt_OuhiZIE5Qnpvw&usqp=CAU"></th>
+		<th><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZcoSxPx8HIDEWTXTyUIX0TBVEUABvUwu2dG0dtDtVb_7C6_0oG_lt_OuhiZIE5Qnpvw&usqp=CAU" width="30px"></th>
 		<th>Python-OOP</th>
 		<th>SQLite3</th>
     		<th>Postgresql</th>
