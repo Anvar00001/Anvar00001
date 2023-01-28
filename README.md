@@ -15,7 +15,7 @@ If you have any questions or suggestions, I will be on this telegram <a href="ht
 	</tr>
   	<tr>
 		<th><img src="https://banner2.cleanpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpg" width="90px"></th>
-		<th><img src="https://i.ytimg.com/vi/8cmQHom36_w/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBj62AbL-o6wqn7SSOtYSgL0RDGsw" widht="50px"></th>
+		<th><img src="https://i.ytimg.com/vi/8cmQHom36_w/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBj62AbL-o6wqn7SSOtYSgL0RDGsw" widht="25px"></th>
 		<th>SQLite3</th>
     		<th>Postgresql</th>
    		<th>Telegram-Bot</th>
